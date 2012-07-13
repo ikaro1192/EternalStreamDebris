@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="shift-jis"?>
+
+<EquipmentList>
+	<Equipment name="ナイフ">
+		<Explain>いたって普通の武器</Explain>
+		<Price>98</Price>
+		<Type>武器</Type>
+		<UpHPMax>10</UpHPMax>
+		<UpMPMax>10</UpMPMax>
+		<UpSpeed>10</UpSpeed>
+		<UpAttackPoint>10</UpAttackPoint>
+		<UpDefensePoint>10</UpDefensePoint>
+		<UpIntelligence>10</UpIntelligence>
+		<UpSpiritualStrength>10</UpSpiritualStrength>
+		<UpLuck>10</UpLuck>
+		<EquipableClass>
+			<ClassName>Magician</ClassName>	
+			<ClassName>Soldier</ClassName>	
+		</EquipableClass>
+		<EquipableCharacter>
+			<CharacterName>ロラン</CharacterName>
+		</EquipableCharacter>
+	</Equipment>
+	
+	<Equipment name="エスケープ">
+		<Explain>ダンジョンから脱出</Explain>
+		<Price>20</Price>
+		<Type>防具</Type>
+		<UpHPMax>10</UpHPMax>
+		<UpMPMax>10</UpMPMax>
+		<UpSpeed>10</UpSpeed>
+		<UpAttackPoint>10</UpAttackPoint>
+		<UpDefensePoint>10</UpDefensePoint>
+		<UpIntelligence>10</UpIntelligence>
+		<UpSpiritualStrength>10</UpSpiritualStrength>
+		<UpLuck>10</UpLuck>
+		<EquipableClass>
+			<ClassName>Magician</ClassName>	
+		</EquipableClass>
+		<EquipableCharacter>
+			<CharacterName>ロラン</CharacterName>
+		</EquipableCharacter>
+	</Equipment>
+
+	<Equipment name="眠り玉">
+		<Explain>相手を眠り状態にする</Explain>
+		<Price>102</Price>
+		<Type>アクセサリ</Type>
+		<UpHPMax>10</UpHPMax>
+		<UpMPMax>10</UpMPMax>
+		<UpSpeed>10</UpSpeed>
+		<UpAttackPoint>10</UpAttackPoint>
+		<UpDefensePoint>10</UpDefensePoint>
+		<UpIntelligence>10</UpIntelligence>
+		<UpSpiritualStrength>10</UpSpiritualStrength>
+		<UpLuck>10</UpLuck>
+		<EquipableClass>
+			<ClassName>Thief</ClassName>	
+			<ClassName>Archer</ClassName>	
+		</EquipableClass>
+		<EquipableCharacter>
+			<CharacterName>ロラン</CharacterName>
+			<CharacterName>ティファナ</CharacterName>
+			<CharacterName>アーク</CharacterName>
+			<CharacterName>ルミア</CharacterName>	
+		</EquipableCharacter>
+
+	</Equipment>
+</EquipmentList>
+
