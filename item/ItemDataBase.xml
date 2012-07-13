@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="shift-jis"?>
+
+<ItemList>
+	<Item name="ポーション">
+		<Script>hogehoge.lua</Script>
+		<Explain>HPを100回復</Explain>
+		<TargetType>Friend</TargetType>
+		<Price>98</Price>
+	</Item>
+	
+	<Item name="エスケープ">
+		<Script>foo.lua</Script>
+		<Explain>ダンジョンから脱出</Explain>
+		<Price>20</Price>
+		<TargetType>None</TargetType>
+	</Item>
+
+	<Item name="眠り玉">
+		<Script>bar.lua</Script>
+		<Explain>相手を眠り状態にする</Explain>
+		<Price>102</Price>
+		<TargetType>Enemey</TargetType>
+	</Item>
+</ItemList>
+
